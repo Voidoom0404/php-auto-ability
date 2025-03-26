@@ -1,1 +1,1 @@
-# php-auto-ability
+# php-auto-abilities
